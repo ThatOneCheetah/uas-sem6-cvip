@@ -9,3 +9,4 @@ Usage of this repository as learning material and reference is permitted under t
 - **Python**: 3.10.2
 - **NumPy**: 1.22.3
 - **OpenCV-Python**: 4.5.5
+- **Matplotlib**: 3.5.1
